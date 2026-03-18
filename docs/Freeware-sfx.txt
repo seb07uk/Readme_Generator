@@ -1,0 +1,59 @@
+═══════════════════════════════════════
+            Freeware License  –  polsoft.ITS™ Group
+═══════════════════════════════════════
+
+  Copyright (c) 2026
+  Sebastian Januchowski
+  polsoft.ITS™ Group
+
+───────────────────────────────────────
+
+  This software is released as Freeware. It may be used,
+  copied, and distributed without charge for personal,
+  educational, or commercial purposes, provided that the
+  following conditions are met:
+
+───────────────────────────────────────
+  CONDITIONS OF USE
+───────────────────────────────────────
+
+  1. The original copyright notice and the name of the author
+     must remain intact and may not be removed, altered,
+     obscured, or replaced in any copy, fork, modification,
+     or distribution of the Software.
+
+  2. Additional acknowledgements for co-authors, contributors,
+     or authors of modifications are permitted and encouraged,
+     as long as the original authorship notice remains fully
+     preserved and clearly visible.
+
+  3. The Software may NOT be sold as a standalone product.
+     It may, however, be included in commercial packages or
+     distributions, provided it is not the primary item
+     of sale.
+
+  4. The Software is provided free of charge and without any
+     obligation of technical support, updates, or maintenance
+     from the author or polsoft.ITS™ Group.
+
+───────────────────────────────────────
+  DISCLAIMER
+───────────────────────────────────────
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+  KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+  PURPOSE, OR NON-INFRINGEMENT.
+
+  IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE
+  FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+  ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+  OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+───────────────────────────────────────
+
+  polsoft.ITS™ Group  |  polsoft.its@fastservice.com
+  https://github.com/seb07uk
+
+═══════════════════════════════════════
