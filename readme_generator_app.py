@@ -1204,7 +1204,7 @@ class ReadmeGeneratorApp(ctk.CTk):
     APP_EMAIL  = "polsoft.its@fastservice.com"
     APP_GITHUB = "https://github.com/seb07uk"
     APP_COPY   = "2026 © Sebastian Januchowski & polsoft.ITS™ Group"
-    WIN_SIZE   = "1180x720"
+    WIN_SIZE   = "1180x850"
     MIN_SIZE   = (860, 560)
 
     ALL_SECTIONS = [
