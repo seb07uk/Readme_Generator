@@ -1,3 +1,6 @@
+<img width="1182" height="895" alt="Screenshot" src="https://github.com/user-attachments/assets/47e7e24b-ca9f-4aee-b044-15eb978f16fb" />
+
+
 # README Generator Pro v2.2
 
 > **polsoft.ITS™ Group** — Standalone GUI application for automatic README.md generation
